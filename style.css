@@ -1,0 +1,57 @@
+body{
+    background: rgb(190, 189, 189);
+}
+
+
+h1 {
+    background: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 30%;
+    margin: 0;
+}
+
+
+#post {
+    background: white;
+    margin: 55px 30% 5% 30%;
+
+}
+
+#post-header {
+
+}
+
+#title {
+    float: left;
+    margin-left: 2%;
+}
+
+#num-pag {
+    float: right;
+    color: grey;
+    margin-right: 2%;
+}
+
+#post-body {
+    
+}
+
+#img {
+    width: 100%;
+}
+
+#post-footer {
+
+}
+
+#footer {
+    text-align: justify;
+    margin: 2% 10% 2% 10%;
+}
+
+#separador {
+    background: rgb(190, 189, 189);
+    height: 60px;
+    width: 100%;
+}
